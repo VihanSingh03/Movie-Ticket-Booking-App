@@ -24,7 +24,7 @@ To get started with the Movie Ticket Booking App, follow these steps:\
 4.In node press a for installing app
 
 Screenshots
-Insert screenshots of the app here to give users a glimpse of the interface.
+<img width="178" alt="06 11 2023_00 29 24_REC" src="https://github.com/VihanSingh03/Movie-Ticket-Booking-App/assets/140373118/18208034-50ef-4d70-879d-415cd72f59b0">
 
 Contributing
 We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or create a pull request. We appreciate your help in making the Movie Ticket Booking App even better.
