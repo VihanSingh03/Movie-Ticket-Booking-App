@@ -23,8 +23,14 @@ To get started with the Movie Ticket Booking App, follow these steps:\
 3.Write command npx react-native run-android\
 4.In node press a for installing app
 
-Screenshots
+# #Screenshots
 <img width="178" alt="06 11 2023_00 29 24_REC" src="https://github.com/VihanSingh03/Movie-Ticket-Booking-App/assets/140373118/18208034-50ef-4d70-879d-415cd72f59b0">
+<img width="185" alt="06 11 2023_00 30 06_REC" src="https://github.com/VihanSingh03/Amazon_clone/assets/140373118/3566e391-6888-44c4-a941-d86f5e4b857b">
+<img width="176" alt="06 11 2023_00 30 42_REC" src="https://github.com/VihanSingh03/Amazon_clone/assets/140373118/0e4d837b-b59c-4133-8a3e-46717795fb92">
+<img width="183" alt="06 11 2023_00 31 57_REC" src="https://github.com/VihanSingh03/Amazon_clone/assets/140373118/8ac35330-e94c-4480-8bf4-0850a33d8779">
+
+
+
 
 Contributing
 We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or create a pull request. We appreciate your help in making the Movie Ticket Booking App even better.
