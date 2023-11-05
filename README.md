@@ -28,6 +28,10 @@ To get started with the Movie Ticket Booking App, follow these steps:\
 <img width="185" alt="06 11 2023_00 30 06_REC" src="https://github.com/VihanSingh03/Amazon_clone/assets/140373118/3566e391-6888-44c4-a941-d86f5e4b857b">
 <img width="176" alt="06 11 2023_00 30 42_REC" src="https://github.com/VihanSingh03/Amazon_clone/assets/140373118/0e4d837b-b59c-4133-8a3e-46717795fb92">
 <img width="183" alt="06 11 2023_00 31 57_REC" src="https://github.com/VihanSingh03/Amazon_clone/assets/140373118/8ac35330-e94c-4480-8bf4-0850a33d8779">
+<img width="182" alt="06 11 2023_00 32 50_REC" src="https://github.com/VihanSingh03/Amazon_clone/assets/140373118/c0176aa4-83f7-49ac-9ad1-277ce2317aa4">
+<img width="179" alt="06 11 2023_00 33 13_REC" src="https://github.com/VihanSingh03/Amazon_clone/assets/140373118/ed168b6a-760d-497a-b130-64c2d1b550d2">
+<img width="180" alt="06 11 2023_00 31 07_REC" src="https://github.com/VihanSingh03/Amazon_clone/assets/140373118/0ecd04ae-4ff3-45a9-a765-b7d233fbb25f">
+
 
 
 
