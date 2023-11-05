@@ -36,7 +36,7 @@ To get started with the Movie Ticket Booking App, follow these steps:\
 
 
 
-Contributing
+# #Contributing
 We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or create a pull request. We appreciate your help in making the Movie Ticket Booking App even better.
 
 
